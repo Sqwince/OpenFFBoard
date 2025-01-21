@@ -5,8 +5,8 @@
  *      Author: Yannick
  */
 
-#ifndef USEREXTENSIONS_SRC_FFHIDEXT_H_
-#define USEREXTENSIONS_SRC_FFHIDEXT_H_
+#ifndef USEREXTENSIONS_SRC_FFHIDEXT_CAN_H_
+#define USEREXTENSIONS_SRC_FFHIDEXT_CAN_H_
 #include "constants.h"
 #ifdef FFBHIDEXT_CAN
 
@@ -32,4 +32,4 @@ private:
 
 #endif
 
-#endif /* USEREXTENSIONS_SRC_FFHIDEXT_H_ */
+#endif /* USEREXTENSIONS_SRC_FFHIDEXT_CAN_H_ */

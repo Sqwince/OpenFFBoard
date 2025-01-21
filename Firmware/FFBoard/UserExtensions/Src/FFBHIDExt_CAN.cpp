@@ -15,7 +15,7 @@
 // Unique identifier for listing
 ClassIdentifier FFBHIDExt_CAN::info = {
 		 .name = "HID Gamepad (With CAN Export)" ,
-		 .id=CLSID_MAIN_FFBEXT,
+		 .id=CLSID_CUSTOM,
 		 .visibility = ClassVisibility::visible
  };
 
