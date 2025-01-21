@@ -47,6 +47,10 @@ static const uint8_t SW_VERSION_INT[3] = {1,15,1}; // Version as array. 8 bit ea
 #define FFB_HID_DESC_GAMEPAD
 #endif
 
+#ifdef FFBHIDEXT_CAN
+#define FFB_HID_DESC_GAMEPAD
+#endif
+
 #ifndef ENCODER_SPI_PORT
 #define ENCODER_SPI_PORT ext3_spi // See cpp_target_config.cpp for ports
 #endif

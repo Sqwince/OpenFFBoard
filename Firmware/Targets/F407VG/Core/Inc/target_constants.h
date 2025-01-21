@@ -28,6 +28,7 @@
 #define TMCDEBUG
 #define CANBRIDGE
 #define FFBHIDEXT
+#define FFBHIDEXT_CAN //Sqwince
 
 /*
  * FFBWheel uses 2 FFB axis descriptor instead of 1 axis.

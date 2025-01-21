@@ -4,7 +4,6 @@
 	<comment></comment>
 	<projects>
 		<project>OpenFFBoard_F407VG</project>
-		<project>OpenFFBoard_F411RE</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
